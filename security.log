@@ -1,0 +1,7 @@
+INFO: User admin logged in successfully
+WARNING: Multiple login attempts detected
+ERROR: Login FAILED for user root
+INFO: System update completed
+WARNING: HTTP 404 error detected
+ERROR: Login FAILED for user guest
+INFO: Firewall service started
